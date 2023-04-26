@@ -29,4 +29,4 @@ I'm always looking to connect with other basketball lovers, aspiring software en
 - [LinkedIn](Link to LinkedIn Profile)
 - [Twitter](Link to Twitter Profile)
 
-Feel free to reach out to me if you have any questions, want to c
+Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to chat about basketball, software engineering, or entrepreneurship!
