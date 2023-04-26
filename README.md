@@ -1,5 +1,3 @@
-Sure, here's an updated README.md file with HTML, CSS, C, and Python icons and a cool gif:
-
 # Hello, world! 👋
 
 ## About Me
