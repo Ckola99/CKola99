@@ -1,9 +1,9 @@
 <html>
   <head>
-   <img src = "https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=6c09b952ezbnry2ps1tva43gcth47imhj78nx9x25k6ydl1u&rid=200w.gif&ct=g">
+    <h1 style="color:#00ff00">Hello, World!</h1>
   </head>
   <body>
-    <h1 style="color:#00ff00">Hello, World!</h1>
+   < img src = "https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=6c09b952ezbnry2ps1tva43gcth47imhj78nx9x25k6ydl1u&rid=200w.gif&ct=g">
     <h2>About Me</h2>
     <p>
       I'm Christopher Kola, a 24-year-old Catholic easy going guy of Congolese descent living in South Africa, electrical engineering student at Wits University, currently on a pause and pushing to learn everything about software. I'm also passionate about basketball and love watching anime. In my free time, I enjoy trading and reading about finance. I'm aspiring to be a full-stack software engineer and hard-nose entrepreneur. I'm interested in the intersection of technology and entrepreneurship and enjoy working on projects related to [Type of Projects You Enjoy Working On] in the [Your Field of Interest] space.
