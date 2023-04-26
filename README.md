@@ -1,5 +1,7 @@
 ## Hello, World!
 
+<img src = "https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=6c09b952ezbnry2ps1tva43gcth47imhj78nx9x25k6ydl1u&rid=200w.gif&ct=g">
+
 # About Me
 
 I'm Christopher Kola, a 24-year-old Catholic easy going guy of Congolese descent living in South Africa, electrical engineering student at Wits University, currently on a pause and pushing to learn everything about software. I'm also passionate about basketball and love watching anime. In my free time, I enjoy trading, working out , listening to music mainly r&b and hip-hop and just living life with my friends. I'm aspiring to be a full-stack software engineer and hard-nose entrepreneur. Trying to find my space in the 1's and 0's.
