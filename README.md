@@ -8,10 +8,7 @@ Hey there, I'm [Your Name], a [Your Profession] with [X] years of experience. My
 
 Here are some of my skills:
 
-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
-- <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-- <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
-- <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python
 
 ## Projects
 
