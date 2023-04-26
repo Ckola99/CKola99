@@ -4,6 +4,8 @@
 
 # About Me
 
+<img src = "https://media.tenor.com/uDviGvD1FKAAAAAM/nyochio-d4dj.gif">
+
 I'm Christopher Kola, a 24-year-old Catholic easy going guy of Congolese descent living in South Africa, electrical engineering student at Wits University, currently on a pause and pushing to learn everything about software. I'm also passionate about basketball and love watching anime. In my free time, I enjoy trading, working out , listening to music mainly r&b and hip-hop and just living life with my friends. I'm aspiring to be a full-stack software engineer and hard-nose entrepreneur. Trying to find my space in the 1's and 0's.
 
 # Skills
