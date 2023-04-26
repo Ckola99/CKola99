@@ -1,5 +1,7 @@
-Hey there, fellow baller and aspiring full-stack software engineer! 👋
-About Me
+##Hello, World!
+
+#About Me
+
 I'm [Your Name], an electrical engineering student who's currently on a pause, pushing to learn everything about software. I'm also a passionate basketball player and hard-nose entrepreneur. I'm interested in the intersection of technology and entrepreneurship and enjoy working on projects related to [Type of Projects You Enjoy Working On] in the [Your Field of Interest] space.
 
 Skills
@@ -20,6 +22,7 @@ I'm always looking to connect with other basketball lovers, aspiring software en
 
 [LinkedIn](Link to LinkedIn Profile)
 [Twitter](Link to Twitter Profile)
+
 Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to chat about basketball, software engineering, or entrepreneurship!
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF" width="400" height="300">
