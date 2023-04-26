@@ -11,9 +11,7 @@
     <h2>Skills</h2>
     <p>Here are some of my skills:</p>
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Python</li>
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
     </ul>
     <h2>Projects</h2>
     <p>Here are a few projects that I've worked on:</p>
