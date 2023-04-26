@@ -9,7 +9,7 @@
       I'm Christopher Kola, a 24-year-old Catholic easy going guy of Congolese descent living in South Africa, electrical engineering student at Wits University, currently on a pause and pushing to learn everything about software. I'm also passionate about basketball and love watching anime. In my free time, I enjoy trading, working out , listening to music mainly r&b and hip-hop and just living life with my friends. I'm aspiring to be a full-stack software engineer and hard-nose entrepreneur. Trying to find my space in the 1's and 0's.
     </p>
     <h2>Skills</h2>
-    <p>Here are some of my skills:</p>
+    <p>This is my current tech stack:</p>
     <ul>
       <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
     </ul>
