@@ -6,7 +6,7 @@
     <h1 style="color:#00ff00">Hello, World!</h1>
     <h2>About Me</h2>
     <p>
-      I'm [Your Name], a 24-year-old electrical engineering student at Wits University, currently on a pause and pushing to learn everything about software. I'm also passionate about basketball and love watching anime. In my free time, I enjoy trading and reading about finance. I'm aspiring to be a full-stack software engineer and hard-nose entrepreneur. I'm interested in the intersection of technology and entrepreneurship and enjoy working on projects related to [Type of Projects You Enjoy Working On] in the [Your Field of Interest] space.
+      I'm Christopher Kola, a 24-year-old Catholic easy going guy of Congolese descent living in South Africa, electrical engineering student at Wits University, currently on a pause and pushing to learn everything about software. I'm also passionate about basketball and love watching anime. In my free time, I enjoy trading and reading about finance. I'm aspiring to be a full-stack software engineer and hard-nose entrepreneur. I'm interested in the intersection of technology and entrepreneurship and enjoy working on projects related to [Type of Projects You Enjoy Working On] in the [Your Field of Interest] space.
     </p>
     <h2>Skills</h2>
     <p>Here are some of my skills:</p>
@@ -18,9 +18,9 @@
     <h2>Projects</h2>
     <p>Here are a few projects that I've worked on:</p>
     <ul>
-      <li><a href="Link to Project 1">Project 1 Name</a>: Brief description of Project 1</li>
-      <li><a href="Link to Project 2">Project 2 Name</a>: Brief description of Project 2</li>
-      <li><a href="Link to Project 3">Project 3 Name</a>: Brief description of Project 3</li>
+      <li><a href="Link to Project 1">Project 1 Name</a>: Project to come</li>
+      <li><a href="Link to Project 2">Project 2 Name</a>: Project to come</li>
+      <li><a href="Link to Project 3">Project 3 Name</a>: Project to come</li>
     </ul>
     <h2>Let's Connect!</h2>
     <p>I'm always looking to connect with other basketball lovers, aspiring software engineers, and entrepreneurs. Here's where you can find me:</p>
