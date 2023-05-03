@@ -27,6 +27,6 @@ Here are a few projects that I've worked on:
 I'm always looking to connect with other basketball lovers, aspiring software engineers, and entrepreneurs. Here's where you can find me:
 
 - [LinkedIn](Link to LinkedIn Profile)
-- <a href="https://twitter.com/KolaDev01?t=qM7hf_YzRFw6CYQcS73lxw&s=09">[Twitter]</a>
+- <a href="https://twitter.com/KolaDev01?t=qM7hf_YzRFw6CYQcS73lxw&s=09">Twitter</a>
 
 Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to chat about basketball, software engineering, or entrepreneurship!
