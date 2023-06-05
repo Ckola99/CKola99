@@ -10,7 +10,7 @@ I'm Christopher Kola, a 24-year-old Catholic easy going guy of Congolese descent
 
 This is my current tech stack:
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon">
 
 ## Projects
 
