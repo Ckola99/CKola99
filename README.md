@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am an aspiring fullstack developer who is very keen on learning and aquiring skills solve problems. I believe that when you learn how to code you learn how to create anything you can imagine.
+I am an aspiring fullstack developer who is very keen on learning and aquiring skills to solve problems. I believe that when you learn how to code you learn how to create anything you can imagine.
 
 
 ## Let's Connect!
