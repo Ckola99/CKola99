@@ -6,7 +6,7 @@
 
 I am an aspiring fullstack developer who is very keen on learning and aquiring skills to solve problems. I believe that when you learn how to code you learn how to create anything you can imagine.
 
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKola99)](https://github.com/anuraghazra/github-readme-stats&theme=holi)
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKola99&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
 
