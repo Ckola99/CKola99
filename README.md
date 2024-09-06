@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Christopher Kola, a self-taught Frontend Engineer with a passion for building innovative web applications. Currently, I'm working on Jammin', an AI-enhanced music assistant app, and Backtrack, a forex backtesting software. I'm always eager to learn and grow, and I'm currently enrolled in the University of the People's BCS Computer Science undergrad program. I'm currently also diving into backend engineering to become a full-stack developer.<br><br>💬 Ask me about trading and Backtrack—I'm always up for a conversation! I'm also looking for opportunities to gain experience and would greatly appreciate any help with my app, Backtrack. Let's connect and collaborate!<br><br>
+# 💫 Hi, I'm Christopher Kola
+👋 A self-taught Frontend Engineer with a passion for building innovative web applications. Currently, I'm working on Jammin', an AI-enhanced music assistant app, and Backtrack, a forex backtesting software. I'm always eager to learn and grow, and I'm currently enrolled in the University of the People's BCS Computer Science undergrad program. I'm currently also diving into backend engineering to become a full-stack developer.<br><br>💬 Ask me about trading and Backtrack—I'm always up for a conversation! I'm also looking for opportunities to gain experience and would greatly appreciate any help with my app, Backtrack. Let's connect and collaborate!<br><br>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ckola99&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckola99&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ckola99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
