@@ -17,7 +17,7 @@ Let’s connect and collaborate!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-k-b64b35119)
 
 ## 💼 Portfolio:
-[**Portfoliogram**]([https://ckolaportfolio.vercel.app](https://personal-portfoliogram.vercel.app/))
+[**Portfoliogram**](https://personal-portfoliogram.vercel.app/)
 
 ---
 
