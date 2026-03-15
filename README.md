@@ -15,10 +15,9 @@ Let’s connect and collaborate!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-k-b64b35119)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KolaDev01)
 
 ## 💼 Portfolio:
-[**ckolaportfolio.vercel.app**](https://ckolaportfolio.vercel.app)
+[**Portfoliogram**]([https://ckolaportfolio.vercel.app](https://personal-portfoliogram.vercel.app/))
 
 ---
 
