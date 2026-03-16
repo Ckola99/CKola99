@@ -3,9 +3,7 @@
 👋 I'm a Software Engineer passionate about building scalable systems, intuitive UIs, and cloud-ready applications.  
 Over the years, I've grown from a web developer into an engineer exploring cloud architecture, distributed systems, DevOps, and backend engineering.
 
-I actively work on:
-- **Jammin'**, an AI-powered music assistant  
-- **Backtrack**, a forex backtesting and analytics platform  
+I actively work on: 
 - A growing portfolio of **cloud-focused** and **full-stack** projects using Java, Python, Node.js, Docker, and Linux.
 
 I'm always learning — especially around cloud engineering, CI/CD automation, and backend development.  
