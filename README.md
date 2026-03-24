@@ -3,7 +3,8 @@
 👋 I'm a Software Engineer passionate about building scalable systems, intuitive UIs, and cloud-ready applications.  
 Over the years, I've grown from a web developer into an engineer exploring cloud architecture, distributed systems, DevOps, and backend engineering.
 
-I actively work on: 
+I actively work on:
+- Aletheia a high-frequency, event-driven algorithmic trading system built around the Inner Circle Trader (ICT) methodology — a market framework grounded in Institutional Order Flow, liquidity engineering, and time-based price delivery.
 - A growing portfolio of **cloud-focused** and **full-stack** projects using Java, Python, Node.js, Docker, and Linux.
 
 I'm always learning — especially around cloud engineering, CI/CD automation, and backend development.  
